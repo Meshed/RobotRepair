@@ -1,9 +1,9 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{40268441-7AE1-BA40-E7B2-E554CDAB266A}") = "robotRepair", "Assembly-CSharp.csproj", "{12CA6D57-93E5-D091-7677-1CD1A099C3C8}"
+Project("{D6F4CADD-9735-96D8-081A-D18A43FEE5A2}") = "RobotRepair", "Assembly-CSharp.csproj", "{8312E011-9027-97E6-F85C-257E28D160A8}"
 EndProject
-Project("{40268441-7AE1-BA40-E7B2-E554CDAB266A}") = "robotRepair", "Assembly-UnityScript.unityproj", "{3ACD97F4-20CC-DD27-7F23-50724B2B44CA}"
+Project("{D6F4CADD-9735-96D8-081A-D18A43FEE5A2}") = "RobotRepair", "Assembly-UnityScript.unityproj", "{30F5A00E-9CE5-CC5F-957E-06CD076A879A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,19 +11,19 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{12CA6D57-93E5-D091-7677-1CD1A099C3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{12CA6D57-93E5-D091-7677-1CD1A099C3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{12CA6D57-93E5-D091-7677-1CD1A099C3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{12CA6D57-93E5-D091-7677-1CD1A099C3C8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3ACD97F4-20CC-DD27-7F23-50724B2B44CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3ACD97F4-20CC-DD27-7F23-50724B2B44CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3ACD97F4-20CC-DD27-7F23-50724B2B44CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3ACD97F4-20CC-DD27-7F23-50724B2B44CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8312E011-9027-97E6-F85C-257E28D160A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8312E011-9027-97E6-F85C-257E28D160A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8312E011-9027-97E6-F85C-257E28D160A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8312E011-9027-97E6-F85C-257E28D160A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30F5A00E-9CE5-CC5F-957E-06CD076A879A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F5A00E-9CE5-CC5F-957E-06CD076A879A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F5A00E-9CE5-CC5F-957E-06CD076A879A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F5A00E-9CE5-CC5F-957E-06CD076A879A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																			GlobalSection(MonoDevelopProperties) = preSolution
+																								GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
